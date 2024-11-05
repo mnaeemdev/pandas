@@ -1,2 +1,2 @@
-# pandas
-Pandas Learning
+# Pandas
+Learn Pandas for Data Science
